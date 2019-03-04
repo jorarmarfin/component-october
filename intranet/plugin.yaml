@@ -1,0 +1,6 @@
+plugin:
+    name: 'luismayta.intranet::lang.plugin.name'
+    description: 'luismayta.intranet::lang.plugin.description'
+    author: 'Luis Mayta'
+    icon: oc-icon-adjust
+    homepage: ''
